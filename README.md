@@ -1,0 +1,1 @@
+# XCOM-2-long-war-of-the-chosen-ukr-localization
