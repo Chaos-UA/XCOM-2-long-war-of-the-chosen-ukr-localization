@@ -1,13 +1,13 @@
 [MCM_OptionsMenuListener]
-m_strModMenuButton="MOD SETTINGS"
+m_strModMenuButton="НАЛАШТУВАННЯ МОДІВ"
 
 [MCM_OptionsScreen]
-m_strSaveAndExit="Save and Exit"
-m_strCancel="Cancel"
-m_strTitle="Mod Settings"
+m_strSaveAndExit="Зберегти і вийти"
+m_strCancel="Скасувати"
+m_strTitle="Налаштування модів"
 m_strSubtitle=""
 
 [MCM_SettingsPanel]
-m_strResetButton="Reset"
-m_strRevertButton="Discard"
-m_strApplyButton="Save"
+m_strResetButton="Скинути"
+m_strRevertButton="Відхилити"
+m_strApplyButton="Зберегти"
