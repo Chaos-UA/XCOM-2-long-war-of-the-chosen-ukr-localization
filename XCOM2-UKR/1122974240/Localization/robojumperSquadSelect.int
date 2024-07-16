@@ -1,44 +1,44 @@
 [robojumper_UISquadSelect]
-strSwitchPerspective=Switch View
-strSwitchPerspectiveTooltip=Switch between the overview and the normal perspective.
+strSwitchPerspective=Змінити вид
+strSwitchPerspectiveTooltip=Перемикання між оглядом і звичайною перспективою.
 
-strCycleLists=Cycle Lists
+strCycleLists=Цикл списків
 
-strUnequipSquad=Unequip Squad
-strUnequipSquadTooltip=Strip gear and equipment from all units currently selected for the mission.
-strUnequipSquadConfirm=Confirm unequip squad
-strUnequipSquadWarning=This will unequip all items from all soldiers selected for current mission duty. This gear will become available for any soldier to equip immediately.
+strUnequipSquad=Роззброїти загін
+strUnequipSquadTooltip=Зняти зброю та обладнання з усіх юнітів, що вибрані для місії в даний момент.
+strUnequipSquadConfirm=Підтвердити роззброювання загону
+strUnequipSquadWarning=Це дія зніме всі предмети з усіх солдат, вибраних для поточної місії. Ця зброя стане доступною для будь-якого солдата негайно.
 
-strUnequipBarracks=Unequip Barracks
-strUnequipBarracksTooltip=Strip gear and equipment from all units NOT currently selected for the mission.
-strUnequipBarracksConfirm=Confirm unequip barracks
-strUnequipBarracksWarning=This will unequip all items from all soldiers NOT selected for current mission duty. This gear will become available for any soldier to equip immediately.
+strUnequipBarracks=Роззброїти склад
+strUnequipBarracksTooltip=Зняти зброю та обладнання з усіх одиниць, які НЕ вибрані для місії в даний момент.
+strUnequipBarracksConfirm=Підтвердити роззброєння казарм
+strUnequipBarracksWarning=Це дія зніме всі предмети з усіх солдат, які НЕ вибрані для поточної місії. Ця зброя стане доступною для будь-якого солдата негайно.
 
 [robojumper_SquadSelect_UISL_MCM]
-strModTitle="robojumper's Squad Select"
-strLabel="Squad Select"
-strGroupTitle="General Settings"
+strModTitle="Вибір загону robojumper"
+strLabel="Вибір загону"
+strGroupTitle="Загальні налаштування"
 
-strShowWeaponUpgradeIcons=Show Upgrade Icons
-strSkipSecondaryUpgradeIconsAvailable=Upgrade Icons Only For Primaries
-strShowBGImages=Show Item Background Images
-strShowMeTheSkills=Show Me The Skills
-strShowStats=Show Me The Stats
-strSkipInitialAbilities=Skip Initial Abilities
-strAutofillSquad=Autofill Squad
-strOpenWeaponUpgradeWithController=Open Weapon Upgrade With Controller
+strShowWeaponUpgradeIcons=Показати іконки покращень
+strSkipSecondaryUpgradeIconsAvailable=Іконки покращень лише для первинних
+strShowBGImages=Показати зображення фону предметів
+strShowMeTheSkills=Показати мені навички
+strShowStats=Показати мені статистику
+strSkipInitialAbilities=Пропустити початкові здібності
+strAutofillSquad=Автоматично заповнити загін
+strOpenWeaponUpgradeWithController=Відкрити покращення зброї за допомогою контролера
 
-strDisallowInfiniteScrolling=Disallow Infinite Scrolling
-strSkipIntro=Skip Intro
+strDisallowInfiniteScrolling=Заборонити нескінченне прокручування
+strSkipIntro=Пропустити вступ
 
-strSquadSize=Squad Size
+strSquadSize=Розмір загону
 
-strSquadSizeSpawnWarning=Squads larger than 9 soldiers cause problems because the spawn points only support 9 units. See the workshop page for solutions!
+strSquadSizeSpawnWarning=Загони, більші за 9 солдатів, викликають проблеми, оскільки точки спавну підтримують лише 9 одиниць. Дивіться сторінку майстерні для рішень!
 
 
-strHideTrainingCenterButton=Hide Training Center Button
+strHideTrainingCenterButton=Приховати кнопку центру підготовки
 
 [robojumper_UISquadSelect_SkillsPanel]
-strTrainingCenter=%SOLDIERPOINTS Soldier AP
+strTrainingCenter=%SOLDIERPOINTS Солдатські ОД
 ; removed because duplicate info bad
 ; (%TOTALPOINTS in Shared Pool)
