@@ -1,5 +1,5 @@
 [KillCounter_UI]
-strKilled="Killed:"
-strActive="Active:"
-strTotal="Total:"
-strRemaining="Remaining:"
+strKilled="Вбито:"
+strActive="Активно:"
+strTotal="Усього:"
+strRemaining="Залишилось:"
