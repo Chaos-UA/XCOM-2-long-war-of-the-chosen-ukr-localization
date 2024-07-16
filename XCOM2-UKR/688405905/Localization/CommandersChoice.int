@@ -1,9 +1,9 @@
 [UIScreenListener_CommandersChoice]
-strCCMenuOption="Commander's Choice"
-strCCTooltip="Select Soldier's Class"
-strCCDescription="Select the Class for this soldier."
+strCCMenuOption="Вибір командира"
+strCCTooltip="Виберіть клас солдата"
+strCCDescription="Виберіть клас для цього солдата."
 
 [UIChooseClass_CommandersChoice]
-m_strTitle="Classes"
-m_strInventoryLabel="Select"
-m_strBuy="Train"
+m_strTitle="Класи"
+m_strInventoryLabel="Вибрати"
+m_strBuy="Тренувати"
