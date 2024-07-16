@@ -1,120 +1,120 @@
 [X2Action_ApplyWeaponDamageToUnit_HITCHANCE]
-HIT_CHANCE ="HIT";
-CRIT_CHANCE ="CRIT";
-DODGE_CHANCE ="DODGE";
-MISS_CHANCE ="MISS";
+HIT_CHANCE ="ВЛУЧАННЯ";
+CRIT_CHANCE ="КРИТИЧНЕ ВЛУЧАННЯ";
+DODGE_CHANCE ="УХИЛЕННЯ";
+MISS_CHANCE ="ПРОМАХ";
 
-SHORT_GUARANTEED_HIT="G.H.";
-SHORT_HIT_CHANCE="H";
-SHORT_MISS_CHANCE="M";
-SHORT_CRIT_CHANCE="C";
-SHORT_DODGE_CHANCE="D";
+SHORT_GUARANTEED_HIT="Г.В.";
+SHORT_HIT_CHANCE="В";
+SHORT_MISS_CHANCE="П";
+SHORT_CRIT_CHANCE="К";
+SHORT_DODGE_CHANCE="У";
 
-GUARANTEED_HIT ="GUARANTEED HIT";
-GUARANTEED_MISS ="GUARANTEED MISS";
+GUARANTEED_HIT ="ГАРАНТОВАНЕ ВЛУЧАННЯ";
+GUARANTEED_MISS ="ГАРАНТОВАНИЙ ПРОМАХ";
 
-REPEATER_KILL ="Repeater";
+REPEATER_KILL ="Автомат";
 
-FAILED_TEXT = "Failed!"
+FAILED_TEXT = "Не вдалося!"
 
 [WOTC_DisplayHitChance_MCMScreen]
-sSettingsPage_MCMText = "Extended Information";
-sPageTitle_MCMText = "Extended Information";
-sGroupGeneralSettings_MCMText = "General Settings";
-sGroupFlyoverSettings_MCMText = "Damages Flyovers Settings";
-sShowHitChance_MCMText = "Show Hit Chance in Flyovers";
-sVerboseText_MCMText = "Verbose Text in Flyovers";
-sDisplayMissChance_MCMText = "Display Miss Chance instead of Hit Chance";
-sShowTemplarMessages_MCMText = "Show Hit Chance within special Parry/Deflect/Reflect Templar's Messages Flyovers";
-sShowAimAssist_MCMText = "Show Aim Assist";
-; sFlyoverDuration_MCMText = "Flyovers Duration";
-sShowGuaranteedHit_MCMText = "Show 'Guaranteed Hit' String";
+sSettingsPage_MCMText = "Розширена інформація";
+sPageTitle_MCMText = "Розширена інформація";
+sGroupGeneralSettings_MCMText = "Загальні налаштування";
+sGroupFlyoverSettings_MCMText = "Налаштування пошкоджень";
+sShowHitChance_MCMText = "Показати ймовірність влучання";
+sVerboseText_MCMText = "Детальний текст";
+sDisplayMissChance_MCMText = "Показати ймовірність промаху замість влучання";
+sShowTemplarMessages_MCMText = "Показати ймовірність влучання в спеціальних повідомленнях тамплієрів про Парирування/Відбиття/Відхилення";
+sShowAimAssist_MCMText = "Показати допомогу при прицілюванні";
+; sFlyoverDuration_MCMText = "Тривалість пошкоджень";
+sShowGuaranteedHit_MCMText = "Показати рядок 'Гарантоване влучання'";
 
-sGroupShotBar_MCMText = "Shotbar Settings";
-sBarHeight_MCMText = "Bar Height";
-;sBarOffsetX_MCMText = "Bar Offset X";
-;sBarOffsetY_MCMText = "Bar Offset Y";
-sBarAlpha_MCMText = "Bar Alpha";
-;sBarWidthMult_MCMText = "Bar Width Multiplier";
-;sGeneralOffsetY_MCMText = "General Offset Y";
-;sDodgeOffsetX_MCMText = "Dodge Offset X";
-;sCritOFfsetX_MCMText = "Crit Offset X";
-;sCritOffsetY_MCMText = "Crit Offset Y";
-sHitHexColor_MCMText = "Bar Hit Color";
-sCritHexColor_MCMText = "Bar Crit Color";
-sDodgeHexColor_MCMText = "Bar Dodge Color";
-sMissHexColor_MCMText = "Bar Miss Color";
-sGroupShotHUD_MCMText = "ShotHUD Settings";
-sGroupBarColors_MCMText = "Bar Colors Settings";
-sShowGrazed_MCMText = "Show Grazed in ShotHUD";
-sShowCrit_MCMText = "Show Crit in ShotHUD";
-sAimLeftOfCrit_MCMText = "Aim Left Of Crit";
-sAssistBesideHit_MCMText = "Aim Assist Beside Hit";
-sPreviewMinimum_MCMText = "Preview Minimum Damage";
-sPreviewHacking_MCMText = "Preview Hacking";
-sWarningMessage_MCMText = "Please note any change to Offset might result in bad display!";
-sGrazeCritLayout_MCMText = "Graze Chance and Crit Damage Display Layout"
-sAssistHexColor_MCMText = "Aim Assist Chance Color";
+sGroupShotBar_MCMText = "Налаштування смуги пострілу";
+sBarHeight_MCMText = "Висота смуги";
+;sBarOffsetX_MCMText = "Зсув смуги X";
+;sBarOffsetY_MCMText = "Зсув смуги Y";
+sBarAlpha_MCMText = "Прозорість смуги";
+;sBarWidthMult_MCMText = "Множник ширини смуги";
+;sGeneralOffsetY_MCMText = "Загальний зсув Y";
+;sDodgeOffsetX_MCMText = "Зсув ухилення X";
+;sCritOFfsetX_MCMText = "Зсув критичного влучання X";
+;sCritOffsetY_MCMText = "Зсув критичного влучання Y";
+sHitHexColor_MCMText = "Колір влучання смуги";
+sCritHexColor_MCMText = "Колір критичного влучання смуги";
+sDodgeHexColor_MCMText = "Колір ухилення смуги";
+sMissHexColor_MCMText = "Колір промаху смуги";
+sGroupShotHUD_MCMText = "Налаштування ShotHUD";
+sGroupBarColors_MCMText = "Налаштування кольорів смуги";
+sShowGrazed_MCMText = "Показати поранення в ShotHUD";
+sShowCrit_MCMText = "Показати критичне влучання в ShotHUD";
+sAimLeftOfCrit_MCMText = "Приціл зліва від критичного";
+sAssistBesideHit_MCMText = "Допомога прицілювання поруч із влучанням";
+sPreviewMinimum_MCMText = "Попередній перегляд мінімальної шкоди";
+sPreviewHacking_MCMText = "Попередній перегляд злому";
+sWarningMessage_MCMText = "Зверніть увагу, що будь-яка зміна зсуву може призвести до неправильної відображення!";
+sGrazeCritLayout_MCMText = "Макет відображення шансів на поранення та критичної шкоди"
+sAssistHexColor_MCMText = "Колір шансу допомоги прицілювання";
 
 
 ;DEBUG
-sDodgeOffsetY_MCMText = "Dodge Offset Y";
+sDodgeOffsetY_MCMText = "Зсув ухилення Y";
 ;DEBUG
 
 
-sBlack = "Black";
-sWhite = "White";
-sCyan = "Cyan";
-sFadedCyan = "Faded Cyan";
-sFadedYellow = "Faded Yellow";
-sGray = "Gray";
-sGreen = "Green";
-sRed = "Red";
-sYellow = "Yellow";
-sPerkYellow = "Perk Yellow";
-sCashGreen = "Resources Green";
-sPurple = "Purple";
-sOrange = "Orange";
-sOrangeEngineering = "Orange Engineering";
-sBlueScience = "Blue Science";
-sObjIconBackground = "Objective Icon Background";
+sBlack = "Чорний";
+sWhite = "Білий";
+sCyan = "Бірюзовий";
+sFadedCyan = "Блідо-бірюзовий";
+sFadedYellow = "Блідо-жовтий";
+sGray = "Сірий";
+sGreen = "Зелений";
+sRed = "Червоний";
+sYellow = "Жовтий";
+sPerkYellow = "Жовтий здібностей";
+sCashGreen = "Зелений ресурсів";
+sPurple = "Фіолетовий";
+sOrange = "Помаранчевий";
+sOrangeEngineering = "Помаранчевий інженерії";
+sBlueScience = "Синій науки";
+sObjIconBackground = "Фон значка завдання";
 
-sLayoutLeft = "Graze and Crit D. to the left";
-sLayoutBalanced = "Graze and Crit D. on each side";
-sLayoutRight = "Graze and Crit D. to the right";
+sLayoutLeft = "Поранення та критична шкода ліворуч";
+sLayoutBalanced = "Поранення та критична шкода з обох сторін";
+sLayoutRight = "Поранення та критична шкода праворуч";
 
-sShowAlwaysShotBreakdownHUD_MCMText = "Always Show Shot Breakdown";
-sGroupShotWings_MCMText = "Shot Wings Settings";
+sShowAlwaysShotBreakdownHUD_MCMText = "Завжди показувати розбивку пострілу";
+sGroupShotWings_MCMText = "Налаштування Shot Wings";
 
-sGroupToolTips_MCMTtext = "ToolTips Settings";
-sToolTipAlpha_MCMText = "ToolTip Background Transparency";
-sShowEnemyToolTip_MCMText = "Show Enemy ToolTip";
-sShowExtraWeaponStats_MCMText = "Enable/Disable Weaponstats";
+sGroupToolTips_MCMTtext = "Налаштування підказок";
+sToolTipAlpha_MCMText = "Прозорість фону підказки";
+sShowEnemyToolTip_MCMText = "Показати підказку ворога";
+sShowExtraWeaponStats_MCMText = "Увімкнути/вимкнути статистику зброї";
 
 
 [WOTC_DisplayHitChance_UITacticalHUD_ShotWings]
-LOWER_DIFFICULTY_MSG = "Lower Difficulty";
-MISS_STREAK_MSG = "Miss Streak";
-SOLDIER_LOST_BONUS = "Soldier Lost Bonus";
-CRIT_DAMAGE_LABEL =  "CRITICAL DAMAGE";
+LOWER_DIFFICULTY_MSG = "Нижча складність";
+MISS_STREAK_MSG = "Смуга промахів";
+SOLDIER_LOST_BONUS = "Бонус втрати солдата";
+CRIT_DAMAGE_LABEL =  "КРИТИЧНА ШКОДА";
 
 
 [WOTC_DisplayHitChance_UITacticalHUD_ShotHUD]
-CRIT_DAMAGE_LABEL="C.DMG";
-GRAZE_CHANCE_LABEL="GRAZED";
+CRIT_DAMAGE_LABEL="К.ШКОДА";
+GRAZE_CHANCE_LABEL="ПОРАЗКА";
 
 
 [UITacticalHUD_EnemyTooltip_HitChance]
-PrimaryBase = "Damage Base";
-PrimarySpread = "Damage Spread";
-PrimaryPlusOne = "Damage +1";
-EnemyStatsTitle = "Enemy Stats";
+PrimaryBase = "Основна шкода";
+PrimarySpread = "Діапазон шкоди";
+PrimaryPlusOne = "Шкода +1";
+EnemyStatsTitle = "Статистика ворога";
 
 
 [UITacticalHUD_SoldierInfoTooltip_HitChance]
-KILLS_LABEL = "Kills";
-ASSIST_LABEL = "Assist";
-FLANKING_CRIT_LABEL = "Flanking Crit";
+KILLS_LABEL = "Вбивства";
+ASSIST_LABEL = "Допомога";
+FLANKING_CRIT_LABEL = "Флангове критичне влучання";
 
 [StatListLib]
-HackDefenseLabel = "Hack Defense";
+HackDefenseLabel = "Захист від злому";
