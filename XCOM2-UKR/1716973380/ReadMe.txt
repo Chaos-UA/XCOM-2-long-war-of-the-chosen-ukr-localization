@@ -1,1 +1,0 @@
-﻿Shows soldier stats on new promotion screen
