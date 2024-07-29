@@ -1,1 +1,0 @@
-﻿For usage and installation instructions, visit the project homepage at https://github.com/andrewgu/ModConfigMenu
