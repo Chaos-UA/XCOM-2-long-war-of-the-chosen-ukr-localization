@@ -1,7 +1,8 @@
 "workshopitem"
 {
 	"appid"	"268500"
+	"previewfile" "D:\projects\XCOM-2-long-war-of-the-chosen-ukr-localization\images\main.png"
 	"contentfolder"	"D:\projects\XCOM-2-long-war-of-the-chosen-ukr-localization\XCOM2-UKR"
-	"changenote" "Initial release"
+	"changenote" "Typo fixes 'Захисник' > 'Заступник', 'Храмівник' > 'Тамплієр'"
 	"publishedfileid" "3301210592"
 }
