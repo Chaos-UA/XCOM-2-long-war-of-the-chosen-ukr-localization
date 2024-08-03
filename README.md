@@ -10,7 +10,7 @@
 Установка для XCOM 2: War Of The Chosen:
 1. Завантажити мод.
 2. Відкрити папку з скаченим модом "steam\steamapps\workshop\content\268500\3301210592",
-   відкрити папку "XCOM2-Vanila" та скопіювати "XCom2-WarOfTheChosen" в корінь установленої
+   відкрити "XCOM2.zip" та скопіювати "XCom2-WarOfTheChosen" в корінь установленої
    гри XCOM 2 з заміною всіх файлів (зробити бекап при необхідності).
 3. Включити мод в списку модифікацій.
 4. Готово.
@@ -29,12 +29,13 @@
 10. BetterSecondWaveSupport
 11. WOTC_DisplayHitChance
 12. WOTC_GotchaAgainRedux
-12. X2WOTCCommunityPromotionScreen
+13. WOTC_ShowTechRewards
+14. X2WOTCCommunityPromotionScreen
 
 Для установки українського перекладу на "XCOM 2 Long War Of The Chosen (LWOTC) v1.1"
 додатково до попередніх кроків установки (XCOM 2: War Of The Chosen) потрібно:
 1. Установити мод "XCOM 2 Long War Of The Chosen (LWOTC) v1.1" та інші опціональні моди
 2. Відкрити папку з скаченим модом "steam\steamapps\workshop\content\268500\3301210592",
-   відкрити папку "Localization\Mods" та скопіювати всі папки
+   відкрити "XCOM2-Mods.zip" та скопіювати всі папки
    з заміною файлів в "steam\steamapps\workshop\content\268500" (зробити бекап при необхідності).
 3. Готово.
