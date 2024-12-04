@@ -3,6 +3,6 @@
 	"appid"	"268500"
 	"previewfile" "D:\projects\XCOM-2-long-war-of-the-chosen-ukr-localization\images\main.png"
 	"contentfolder"	"D:\projects\XCOM-2-long-war-of-the-chosen-ukr-localization\XCOM2-UKR-mod-content"
-	"changenote" "Виділено назву зброї у описі символами «» (Наприклад «Гвинтівка»), 'Рейлпістолет' > 'Рельсотронний пістолет', покращено опис для long war БОЄГОЛОВКИ HEAT та Зона контролю"
+	"changenote" "Фікси для XCOM 2 WOTC"
 	"publishedfileid" "3301210592"
 }
