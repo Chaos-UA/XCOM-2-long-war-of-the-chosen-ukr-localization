@@ -1,6 +1,6 @@
 Українська локалізація гри XCOM 2: War Of The Chosen з доповненнями.
 
-Також включає українську локалізацію для глобального моду XCOM 2 Long War Of The Chosen (LWOTC) v1.1.
+Також включає українську локалізацію для глобального моду XCOM 2 Long War Of The Chosen (LWOTC) v1.2.
 
 Мод може бути не сумісний з іншими модами які заміняють шрифт субтитрів та тексту і не підтримують українські символи (І, Є, Ї).
 
@@ -16,7 +16,7 @@
 4. Готово.
 
 Також мод включає опціональний переклад для глобальної
-модифікації "XCOM 2 Long War Of The Chosen (LWOTC) v1.1" та декілька додаткових модів:
+модифікації "XCOM 2 Long War Of The Chosen (LWOTC) v1.2" та декілька додаткових модів:
 1. LongWarOfTheChosen
 2. ModConfigMenu
 3. CommandersChoice
@@ -32,7 +32,7 @@
 13. WOTC_ShowTechRewards
 14. X2WOTCCommunityPromotionScreen
 
-Для установки українського перекладу на "XCOM 2 Long War Of The Chosen (LWOTC) v1.1"
+Для установки українського перекладу на "XCOM 2 Long War Of The Chosen (LWOTC) v1.2"
 додатково до попередніх кроків установки (XCOM 2: War Of The Chosen) потрібно:
 1. Установити мод "XCOM 2 Long War Of The Chosen (LWOTC) v1.1" та інші опціональні моди
 2. Відкрити папку з скаченим модом "steam\steamapps\workshop\content\268500\3301210592",
